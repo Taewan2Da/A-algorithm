@@ -24,7 +24,7 @@ public:
 		return position == other.position;
 	}
 
-private:
+public:
 	Vector2 position;
 	Node* parent = nullptr;
 	float gCost = 0.0f;

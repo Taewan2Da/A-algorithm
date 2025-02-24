@@ -14,6 +14,5 @@ void Start::Update(float deltaTime)
 	if (Engine::Get().GetKeyDown(VK_LBUTTON))
 	{
 		position = Engine::Get().MousePosition();
-		std::cout << "ÁÂÅ¬¸¯";
 	}
 }

@@ -9,4 +9,7 @@ class DemoLevel : public Level
 
 public:
 	DemoLevel();
+
+	void Update(float deltaTime) override;
+
 };
