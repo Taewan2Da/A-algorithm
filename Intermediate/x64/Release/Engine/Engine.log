@@ -1,0 +1,31 @@
+﻿  C:\Users\user\Desktop\ConsoleEngine_Click\Engine\Core.h
+  C:\Users\user\Desktop\ConsoleEngine_Click\Engine\RTTI.h
+  C:\Users\user\Desktop\ConsoleEngine_Click\Engine\Actor\Actor.h
+  C:\Users\user\Desktop\ConsoleEngine_Click\Engine\Actor\DrawableActor.h
+  C:\Users\user\Desktop\ConsoleEngine_Click\Engine\Container\List.h
+  C:\Users\user\Desktop\ConsoleEngine_Click\Engine\Engine\Engine.h
+  C:\Users\user\Desktop\ConsoleEngine_Click\Engine\Engine\Timer.h
+  C:\Users\user\Desktop\ConsoleEngine_Click\Engine\Level\Level.h
+  C:\Users\user\Desktop\ConsoleEngine_Click\Engine\Math\Vector2.h
+  C:\Users\user\Desktop\ConsoleEngine_Click\Engine\PreCompiledHeader\PreCompiledHeader.h
+  C:\Users\user\Desktop\ConsoleEngine_Click\Engine\Render\ScreenBuffer.h
+  11개 파일이 복사되었습니다.
+  PreCompiledHeader.cpp
+  Actor.cpp
+  DrawableActor.cpp
+  Engine.cpp
+  Timer.cpp
+  Level.cpp
+  Vector2.cpp
+  Main.cpp
+  ScreenBuffer.cpp
+     C:\Users\user\Desktop\ConsoleEngine_Click\Bin\x64\Release\Engine\Engine.lib 라이브러리 및 C:\Users\user\Desktop\ConsoleEngine_Click\Bin\x64\Release\Engine\Engine.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 211 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Engine.vcxproj -> C:\Users\user\Desktop\ConsoleEngine_Click\Bin\x64\Release\Engine\Engine.dll
+  C:\Users\user\Desktop\ConsoleEngine_Click\Bin\x64\Release\Engine\Engine.dll
+  1개 파일이 복사되었습니다.
+  C:\Users\user\Desktop\ConsoleEngine_Click\Bin\x64\Release\Engine\Engine.lib
+  1개 파일이 복사되었습니다.
